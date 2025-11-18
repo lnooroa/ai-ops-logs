@@ -1,3 +1,2 @@
-{"t":"2025-11-18T05:48:23.282Z","event":"start","runId":"r_orch_console1","msg":"create orchestrator console page"}
-{"t":"2025-11-18T05:48:25.538Z","event":"save_page","runId":"r_orch_console1","slug":"orch_console","status":200,"ok":true}
-{"t":"2025-11-18T05:48:25.538Z","event":"done","runId":"r_orch_console1","ok":true,"slug":"orch_console"}
+{"t":"2025-11-18T06:17:35.729Z","runId":"r_kv1","event":"start"}
+{"t":"2025-11-18T06:17:37.216Z","runId":"r_kv1","event":"versions_shape","sample":"{\"ok\":true,\"items\":[{\"slug\":\"${logSlug}\",\"meta\":{\"kind\":\"log\",\"at\":\"2025-11-14T07:48:06.967Z\"}},{\"slug\":\"admin_console_v0_ljvq\",\"meta\":{\"kind\":\"admin\",\"at\":\"2025-10-29T08:29:10.964Z\",\"title\":\"Admin Console v0\"}},{\"slug\":\"demo-1\",\"meta\":{\"note\":\"first kv version\"}},{\"slug\":\"home_v0_k2dn\",\"meta\":{\"kin"}
