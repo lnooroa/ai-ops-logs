@@ -1,2 +1,2 @@
-{"t":"2025-11-18T07:39:26.278Z","runId":"r_kv_report1","event":"start","base":"https://ai-ops-dashboard.pages.dev"}
-{"t":"2025-11-18T07:39:30.393Z","runId":"r_kv_report1","event":"save_page","status":200,"bodySample":"{\"ok\":true,\"slug\":\"kv_index_last\"}"}
+{"t":"2025-11-18T07:47:04.860Z","runId":"r_kv_report_btn1","event":"start","base":"https://ai-ops-dashboard.pages.dev"}
+{"t":"2025-11-18T07:47:09.574Z","runId":"r_kv_report_btn1","event":"save_page","status":200,"bodySample":"{\"ok\":true,\"slug\":\"kv_index_last\"}"}
