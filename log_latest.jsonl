@@ -1,2 +1,3 @@
-{"t":"2025-11-18T07:47:04.860Z","runId":"r_kv_report_btn1","event":"start","base":"https://ai-ops-dashboard.pages.dev"}
-{"t":"2025-11-18T07:47:09.574Z","runId":"r_kv_report_btn1","event":"save_page","status":200,"bodySample":"{\"ok\":true,\"slug\":\"kv_index_last\"}"}
+{"t":"2025-11-18T07:55:44.412Z","runId":"r_log_page1","event":"start"}
+{"t":"2025-11-18T07:55:44.412Z","runId":"r_log_page1","event":"message","text":"hello from log-page test"}
+{"t":"2025-11-18T07:55:47.295Z","runId":"r_log_page1","event":"save_result","status":200,"bodySample":"{\"ok\":true,\"slug\":\"ai_log_latest\"}"}
