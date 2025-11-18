@@ -1,3 +1,4 @@
-{"t":"2025-11-18T07:55:47.738Z","runId":"r_log_page1","event":"start"}
-{"t":"2025-11-18T07:55:47.738Z","runId":"r_log_page1","event":"message","text":"hello from log-page test"}
-{"t":"2025-11-18T07:55:51.075Z","runId":"r_log_page1","event":"save_result","status":200,"bodySample":"{\"ok\":true,\"slug\":\"ai_log_latest\"}"}
+{"t":"2025-11-18T08:00:31.918Z","runId":"r_kv_report2","event":"start"}
+{"t":"2025-11-18T08:00:33.563Z","runId":"r_kv_report2","event":"count_items","count":88}
+{"t":"2025-11-18T08:00:36.001Z","runId":"r_kv_report2","event":"saved_kv_page","status":200}
+{"t":"2025-11-18T08:00:38.406Z","runId":"r_kv_report2","event":"saved_ai_log_latest","status":200}
